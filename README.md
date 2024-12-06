@@ -30,13 +30,12 @@ The collected bus details data was transformed into Pandas DataFrames, facilitat
 With the help of Streamlit, you can create an interactive application similar to RedBus by designing a user-friendly interface that allows users to search for bus routes, view available buses, and get details like departure times and prices.
 
 # PACKAGES AND LIBRARIES:
-<ul>pandas as pd</ul>
+<ul>pandas</ul>
 <ul>pymysql</ul>
-<ul>import time</ul>
-<ul>streamlit as st</ul>
-<ul>import webdriver</ul>
-<ul>import WebDriverWait</ul>
-<ul>import expected_conditions as EC</ul>
+<ul>time</ul>
+<ul>streamlit</ul>
+<ul>iselenium</ul>
+
 
 
 
