@@ -34,7 +34,7 @@ With the help of Streamlit, you can create an interactive application similar to
 <ul>pymysql</ul>
 <ul>time</ul>
 <ul>streamlit</ul>
-<ul>iselenium</ul>
+<ul>selenium</ul>
 
 
 
